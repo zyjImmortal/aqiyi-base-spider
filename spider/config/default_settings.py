@@ -5,3 +5,15 @@ LOG = {
     'REQUEST_LOG': True,
     'FILE': True
 }
+
+PIPELINES = [
+
+]
+
+DOWNLOADER_MIDDLEWARES = [
+
+]
+
+SPIDER_MIDDLEWARES = [
+
+]

@@ -9,4 +9,4 @@ class Spider:
             yield Request(url)
 
     def parse(self, response):
-        pass
+        raise NotImplementedError()
